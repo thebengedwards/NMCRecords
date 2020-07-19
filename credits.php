@@ -12,6 +12,7 @@ if (isset($_SESSION['username'])){
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
   <title>Credits</title>
 </head>
 <body>
